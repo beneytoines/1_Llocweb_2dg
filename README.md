@@ -2,6 +2,6 @@
 
 Primera pràctica
 
-# continguts
+## continguts
 * crear document html
 * etiquetes h1 h2 h3 p
